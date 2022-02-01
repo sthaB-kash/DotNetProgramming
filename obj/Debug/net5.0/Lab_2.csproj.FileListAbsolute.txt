@@ -1,0 +1,16 @@
+/home/bikash/DotNet-Programming/lab/Lab_2/bin/Debug/net5.0/Lab_2
+/home/bikash/DotNet-Programming/lab/Lab_2/bin/Debug/net5.0/Lab_2.deps.json
+/home/bikash/DotNet-Programming/lab/Lab_2/bin/Debug/net5.0/Lab_2.runtimeconfig.json
+/home/bikash/DotNet-Programming/lab/Lab_2/bin/Debug/net5.0/Lab_2.runtimeconfig.dev.json
+/home/bikash/DotNet-Programming/lab/Lab_2/bin/Debug/net5.0/Lab_2.dll
+/home/bikash/DotNet-Programming/lab/Lab_2/bin/Debug/net5.0/ref/Lab_2.dll
+/home/bikash/DotNet-Programming/lab/Lab_2/bin/Debug/net5.0/Lab_2.pdb
+/home/bikash/DotNet-Programming/lab/Lab_2/obj/Debug/net5.0/Lab_2.csproj.AssemblyReference.cache
+/home/bikash/DotNet-Programming/lab/Lab_2/obj/Debug/net5.0/Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/bikash/DotNet-Programming/lab/Lab_2/obj/Debug/net5.0/Lab_2.AssemblyInfoInputs.cache
+/home/bikash/DotNet-Programming/lab/Lab_2/obj/Debug/net5.0/Lab_2.AssemblyInfo.cs
+/home/bikash/DotNet-Programming/lab/Lab_2/obj/Debug/net5.0/Lab_2.csproj.CoreCompileInputs.cache
+/home/bikash/DotNet-Programming/lab/Lab_2/obj/Debug/net5.0/Lab_2.dll
+/home/bikash/DotNet-Programming/lab/Lab_2/obj/Debug/net5.0/ref/Lab_2.dll
+/home/bikash/DotNet-Programming/lab/Lab_2/obj/Debug/net5.0/Lab_2.pdb
+/home/bikash/DotNet-Programming/lab/Lab_2/obj/Debug/net5.0/Lab_2.genruntimeconfig.cache
