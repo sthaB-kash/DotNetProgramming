@@ -32,7 +32,7 @@ namespace Lab_2
                         new Q5();
                         break;
                     case 6: 
-                        // new Q6();
+                        new Q6();
                         break;
                     case 7: Console.WriteLine("Thank you.."); break;
                     default: Console.WriteLine("Please select a valid option"); break;
