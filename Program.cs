@@ -26,7 +26,7 @@ namespace Lab_2
                         new Q3();
                         break;
                     case 4: 
-                        // new Q4();
+                        new Q4();
                         break;
                     case 7: Console.WriteLine("Thank you.."); break;
                     default: Console.WriteLine("Please select a valid option"); break;
