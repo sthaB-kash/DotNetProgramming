@@ -20,7 +20,13 @@ namespace Lab_2
                         new Q1().say_hello_world();
                         break;
                     case 2:
-                        Console.WriteLine("two");
+                        new Q2().display();
+                        break;
+                    case 3:
+                        new Q3();
+                        break;
+                    case 4: 
+                        // new Q4();
                         break;
                     case 7: Console.WriteLine("Thank you.."); break;
                     default: Console.WriteLine("Please select a valid option"); break;
