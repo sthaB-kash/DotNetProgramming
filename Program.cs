@@ -17,7 +17,7 @@ namespace Lab_2
                 int.TryParse(input, out option);
                 switch(option){
                     case 1:
-                        new Q1().say_hello_wrold();
+                        new Q1().say_hello_world();
                         break;
                     case 2:
                         Console.WriteLine("two");
@@ -46,7 +46,7 @@ namespace Lab_2
             for(int n=0; n<questions.Length; n++){
                 Console.WriteLine("{0}. {1}", n+1, questions[n]);
             }
-            Console.WriteLine("{0}. Exit", questions.Length);
+            Console.WriteLine("{0}. Exit", questions.Length + 1);
         }
     }
 }
