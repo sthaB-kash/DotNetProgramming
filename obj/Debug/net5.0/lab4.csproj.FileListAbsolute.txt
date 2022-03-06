@@ -1,0 +1,16 @@
+/home/bikash/DotNet-Programming/lab/lab4/bin/Debug/net5.0/lab4
+/home/bikash/DotNet-Programming/lab/lab4/bin/Debug/net5.0/lab4.deps.json
+/home/bikash/DotNet-Programming/lab/lab4/bin/Debug/net5.0/lab4.runtimeconfig.json
+/home/bikash/DotNet-Programming/lab/lab4/bin/Debug/net5.0/lab4.runtimeconfig.dev.json
+/home/bikash/DotNet-Programming/lab/lab4/bin/Debug/net5.0/lab4.dll
+/home/bikash/DotNet-Programming/lab/lab4/bin/Debug/net5.0/ref/lab4.dll
+/home/bikash/DotNet-Programming/lab/lab4/bin/Debug/net5.0/lab4.pdb
+/home/bikash/DotNet-Programming/lab/lab4/obj/Debug/net5.0/lab4.csproj.AssemblyReference.cache
+/home/bikash/DotNet-Programming/lab/lab4/obj/Debug/net5.0/lab4.GeneratedMSBuildEditorConfig.editorconfig
+/home/bikash/DotNet-Programming/lab/lab4/obj/Debug/net5.0/lab4.AssemblyInfoInputs.cache
+/home/bikash/DotNet-Programming/lab/lab4/obj/Debug/net5.0/lab4.AssemblyInfo.cs
+/home/bikash/DotNet-Programming/lab/lab4/obj/Debug/net5.0/lab4.csproj.CoreCompileInputs.cache
+/home/bikash/DotNet-Programming/lab/lab4/obj/Debug/net5.0/lab4.dll
+/home/bikash/DotNet-Programming/lab/lab4/obj/Debug/net5.0/ref/lab4.dll
+/home/bikash/DotNet-Programming/lab/lab4/obj/Debug/net5.0/lab4.pdb
+/home/bikash/DotNet-Programming/lab/lab4/obj/Debug/net5.0/lab4.genruntimeconfig.cache
