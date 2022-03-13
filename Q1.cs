@@ -32,16 +32,28 @@ namespace lab4
 
   class Manager : Employee
   {
-    public Manager()
+    // public Manager()
+    // {
+    //   id = 5;
+    //   fname = "Bikash";
+    //   lname = "Shrestha";
+    //   dob = "2000-02-22";
+    //   hire_date = "2022-02-22";
+    //   current_salary = 200000;
+    //   bonus = 0;
+    //   stock_options = 2;
+    // }
+
+    public Manager(int id, string fname, string lname, string dob, string hire_date, float current_salary, float bonus, int stock_options)
     {
-      id = 5;
-      fname = "Bikash";
-      lname = "Shrestha";
-      dob = "2000-02-22";
-      hire_date = "2022-02-22";
-      current_salary = 200000;
-      bonus = 0;
-      stock_options = 2;
+      this.id = id;
+      this.fname = fname;
+      this.lname = lname;
+      this.dob = dob;
+      this.hire_date = hire_date;
+      this.current_salary = current_salary;
+      this.bonus = bonus;
+      this.stock_options = stock_options;
     }
     public void setStockOptions(int options)
     {
@@ -69,6 +81,18 @@ namespace lab4
       no_of_sales = 0;
     }
 
+    public SalesAssociate(int id, string fname, string lname, string dob, string hire_date, float current_salary, float bonus, int stock_options, int no_of_sales)
+    {
+      this.id = id;
+      this.fname = fname;
+      this.lname = lname;
+      this.dob = dob;
+      this.hire_date = hire_date;
+      this.current_salary = current_salary;
+      this.bonus = bonus;
+      this.stock_options = stock_options;
+      this.no_of_sales = no_of_sales;
+    }
     public double sales_bonus()
     {
       double applicable_bonus_per = 0;
@@ -88,6 +112,11 @@ namespace lab4
       else
         applicable_bonus_per = 0;
       return no_of_sales * applicable_bonus_per;
+    }
+    
+    public void display_sales()
+    {
+      Console.WriteLine("No of sales: {0}", no_of_sales);
     }
   }
 }
