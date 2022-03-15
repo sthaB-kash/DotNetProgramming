@@ -2,11 +2,11 @@
 
 namespace lab_5
 {
-    class Program
+  class EmployeeTest
+  {
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+      Console.WriteLine("Hello World!");
     }
+  }
 }
