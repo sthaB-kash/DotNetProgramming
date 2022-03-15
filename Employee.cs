@@ -16,7 +16,7 @@ namespace lab_5
     }
     public virtual void display()
     {
-      Console.WriteLine("Employee Details: {0} \nName: {1}\nSalary: {2}", this.id, this.name, this.salary_per_day);
+      Console.WriteLine("Employee Details: {0} \nName: {1}\nSalary/day: {2}", this.id, this.name, this.salary_per_day);
     }
 
     public abstract double calc_salary();
