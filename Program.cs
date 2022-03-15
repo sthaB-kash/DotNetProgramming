@@ -6,7 +6,9 @@ namespace lab_5
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello World!");
+      LabAssistant la = new LabAssistant(5, "Bikash Shrestha", 600);
+      la.display();
+      Console.WriteLine("Salary: {0}", la.calc_salary());
     }
   }
 }
