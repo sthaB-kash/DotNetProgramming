@@ -14,7 +14,7 @@ namespace dotnet_hello_world
             // selectionStatement.example();
             // Console.WriteLine("Factorial of 5 is {0}", new Factorial().fact(5));
             // Pattern ptrn = new Pattern();
-            // ptrn.printPattern(2, 50);
+            new Pattern().printPattern(2, 50);
             
             // string ch = Console.ReadLine();
             // Console.WriteLine(ch.Length);
@@ -22,10 +22,10 @@ namespace dotnet_hello_world
             //     Console.WriteLine(c);
             // }
              
-             Fibonacci fib = new Fibonacci();
-             for(int i = 1; i <= 10; i++) {
-                 Console.WriteLine(fib.fib(i));
-             }
+            //  Fibonacci fib = new Fibonacci();
+            //  for(int i = 1; i <= 10; i++) {
+            //      Console.WriteLine(fib.fib(i));
+            //  }
             // int a = 0, b = 1, c, n;
             // Console.Write("Enter the number of terms: ");
             // n = Convert.ToInt32(Console.ReadLine());

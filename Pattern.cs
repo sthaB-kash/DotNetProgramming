@@ -17,9 +17,7 @@ namespace dotnet_hello_world {
             int count = 0;
             for(int i=1; i<=num; i++ ) {
                 // Console.WriteLine("{0}, {1}, {2}, {3}\n-------------", num, i, num % i==0, count);
-                if(num % i == 0 ) {
-                    count ++;
-                }
+                if(num % i == 0 ) count++;
             }
             return count == 2;
         }
