@@ -4,8 +4,8 @@ namespace dotnet_hello_world
 {
     class Program
     {
-        static void Main(string[] args)
-        {
+        // static void Main(string[] args)
+        // {
             // Test obj = new Test();
             // obj.boxing_and_unboxing();
             // obj.dynamic_example();
@@ -14,7 +14,7 @@ namespace dotnet_hello_world
             // selectionStatement.example();
             // Console.WriteLine("Factorial of 5 is {0}", new Factorial().fact(5));
             // Pattern ptrn = new Pattern();
-            new Pattern().printPattern(2, 50);
+            // new Pattern().printPattern(2, 50);
             
             // string ch = Console.ReadLine();
             // Console.WriteLine(ch.Length);
@@ -38,6 +38,6 @@ namespace dotnet_hello_world
             //     a = b;
             //     b = c;
             // }
-        }
+        // }
     }
 }
