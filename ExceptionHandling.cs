@@ -17,7 +17,7 @@ namespace dotnet_hello_world {
             }
         }
 
-        public static void Main(String [] args) {
+        // public static void Main(String [] args) {
             // ExceptionExample obj = new ExceptionExample();
             // try{
             //     Console.Write("Enter you name: ");
@@ -29,16 +29,16 @@ namespace dotnet_hello_world {
             // }
 
             // divide by zero exception
-            int a = 10, b = 0, rel = 0;
+            // int a = 10, b = 0, rel = 0;
             
-            try {
-                rel = a / b;
-            } catch (DivideByZeroException e) {
-                Console.WriteLine(e.Message);
-            } finally {
-                Console.WriteLine("Result: {0}", rel);
-            }
+            // try {
+            //     rel = a / b;
+            // } catch (DivideByZeroException e) {
+            //     Console.WriteLine(e.Message);
+            // } finally {
+            //     Console.WriteLine("Result: {0}", rel);
+            // }
 
-        }
+        // }
     }
 }
