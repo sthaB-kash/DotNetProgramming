@@ -18,15 +18,15 @@ namespace interface_example {
     }
 
     class Test {
-        public static void Main(String[] args) {
-            Drawable d;
-            d = new Rectangle();
-            d.draw();
-            d = new Circle();
-            d.draw();
+        // public static void Main(String[] args) {
+        //     Drawable d;
+        //     d = new Rectangle();
+        //     d.draw();
+        //     d = new Circle();
+        //     d.draw();
 
-            new Rectangle().draw();
-            new Circle().draw();
-        }
+        //     new Rectangle().draw();
+        //     new Circle().draw();
+        // }
     }
 }
