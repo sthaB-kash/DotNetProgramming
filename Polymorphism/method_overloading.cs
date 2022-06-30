@@ -22,15 +22,4 @@ namespace polymorphism_example {
             Console.WriteLine("Char: {0}", c);
         }
     }
-
-    class Program {
-        static void Main(string[] args) {
-            PrintData p = new PrintData();
-            p.print(10);
-            p.print(10.5f);
-            p.print(10.5);
-            p.print("Hello World");
-            p.print('A');
-        }
-    }
 }
