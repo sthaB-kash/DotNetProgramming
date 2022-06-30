@@ -4,8 +4,17 @@ namespace dotnet_hello_world
 {
     class Program
     {
-        // static void Main(string[] args)
-        // {
+        // static void Main(string [] args) {
+
+            // Command line args
+            if (args.Length > 0) {
+                Console.WriteLine("Command line args:");
+                foreach (string arg in args) {
+                    Console.WriteLine(arg);
+                }
+            }
+
+
             // Test obj = new Test();
             // obj.boxing_and_unboxing();
             // obj.dynamic_example();

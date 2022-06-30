@@ -23,17 +23,17 @@ namespace user_defined_exception
 
     class Program
     {
-        static void Main(string[] args)
-        {
-            Temperature obj = new Temperature();
-            try {
-                Console.Write("Enter temperature: ");
-                obj.Temp = Convert.ToInt32(Console.ReadLine());
-            } catch (TempIsZeroException e) {
-                Console.WriteLine(e.Message);
-            } finally {
-                Console.WriteLine("Temperature: {0}", obj.Temp);
-            }
-        }
+        // static void Main(string[] args)
+        // {
+        //     Temperature obj = new Temperature();
+        //     try {
+        //         Console.Write("Enter temperature: ");
+        //         obj.Temp = Convert.ToInt32(Console.ReadLine());
+        //     } catch (TempIsZeroException e) {
+        //         Console.WriteLine(e.Message);
+        //     } finally {
+        //         Console.WriteLine("Temperature: {0}", obj.Temp);
+        //     }
+        // }
     }
 }
